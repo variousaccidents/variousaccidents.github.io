@@ -121,11 +121,12 @@ a {
     border-bottom: none;
 }
 
-iframe {
+.frame {
     margin-bottom: calc(var(--body-size)*1);
+    width: 100%;
 }
 
-iframw {
+body, p{
     font-size: var(--body-size);
     line-height: calc(var(--body-size)*var(--line-height-multiplier));
     margin-bottom: calc(var(--body-size)*1);
