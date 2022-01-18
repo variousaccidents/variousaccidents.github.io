@@ -110,6 +110,7 @@ html, body, p, a, h1, h2, h3, ul, li, iframe, .section-header, #title {
 
 a {
     padding-bottom: .1em;
+    line-height: 1.5em;
     border-bottom: solid var(--border-width);
     display: inline;
 }
@@ -162,17 +163,10 @@ iframe
     float:left;
     margin-right: calc(var(--spacing)/2);
 }
-/*text*/
-
-/*text color*/
-/* h1, h3, #description li, #description a {
-    color: var(--color-tertiary);
-} */
-/*text color*/
 
 /* images and video */
 img, video { 
-    margin-bottom: calc(var(--body-size)*1);
+    margin-bottom: 1em;
     width: 100%;
 }
 
