@@ -7,6 +7,4 @@ The Canadian electronic music producer well-known for a rigorous and pandemic-in
 Dusko formally joined the Twittersphere in 2019 all while cranking out an impressive catalog of self-works and collaborations. 
 The collaboration shows a softer side of the producer, all while showcasing Sebastian Pfeifer’s incredible illustrative talent.
 
-<iframe class="frame" title="vimeo-player" src="https://player.vimeo.com/video/659238034?h=802a290c35" width="100%" frameborder="0" allowfullscreen></iframe>
-
-The project is available [here](https://everfresh-design.de/rainbow-vision).
+The full animated project can be seen here [here](https://everfresh-design.de/rainbow-vision).
