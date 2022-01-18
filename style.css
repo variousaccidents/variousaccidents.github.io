@@ -124,6 +124,7 @@ a {
 body, p {
     font-size: var(--body-size);
     line-height: calc(var(--body-size)*var(--line-height-multiplier));
+    margin-bottom: calc(var(--body-size)*1);
     /*letter-spacing: .05em;*/
 }
 
@@ -180,7 +181,7 @@ h2 {
 /*text color*/
 
 /* images and video */
-img, video {
+img, video { 
     margin-bottom: calc(var(--body-size)*1);
     width: 100%;
 }
