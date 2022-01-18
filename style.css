@@ -86,10 +86,10 @@ url("fonts/PT-F5-Regular.otf") format("opentype");
     --body-size: 16px;
     --line-height-multiplier: 1.4;
     /* site title */
-    --title-size: calc(var(--body-size)*1.5);
-    --section-header-size: calc(var(--body-size)*0.8);
-    --h1-size: calc(var(--body-size)*3);
-    --h2-size: calc(var(--body-size)*2);
+    --title-size: 24pt;
+    --section-header-size: 12pt;
+    --h1-size: 48pt;
+    --h2-size: 24pt;
     --spacing: calc(var(--body-size)*3);
     --border-width: 1.5px;
     --letter-spacing: 0em;
@@ -121,9 +121,10 @@ a {
     border-bottom: none;
 }
 
-.frame {
+iframe {
     margin-bottom: calc(var(--body-size)*1);
     width: 100%;
+    height:auto;
 }
 
 body, p{
@@ -134,7 +135,7 @@ body, p{
 }
 
 h1 {
-    font-family: var(--default-font);
+    font-family: "PT-F5 Regular";
     font-size: var(--h1-size);
     line-height: calc(var(--h1-size)*var(--line-height-multiplier));
 }
