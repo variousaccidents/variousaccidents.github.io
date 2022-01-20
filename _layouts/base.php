@@ -1,18 +1,4 @@
-<?php
-function catch_that_image() {
-  global $post, $posts;
-  $first_img = '';
-  ob_start();
-  ob_end_clean();
-  $output = preg_match_all('/<img.+src=[\'"]([^\'"]+)[\'"].*>/i', $post->post_content, $matches);
-  $first_img = $matches [1] [0];
 
-  if(empty($first_img)){ //Defines a default image
-    $first_img = "/images/default.jpg";
-  }
-  return $first_img;
-}
-?>
 
 <html>
 
@@ -31,6 +17,22 @@ function catch_that_image() {
     <!--If the current page doesn't have a title, the file name is used-->
     <title>Various Accidents</title>
     <meta title=”description” content="A curated selection of future nostalgia Est. 2022">
+    
+    <?php
+function catch_that_image() {
+  global $post, $posts;
+  $first_img = '';
+  ob_start();
+  ob_end_clean();
+  $output = preg_match_all('/<img.+src=[\'"]([^\'"]+)[\'"].*>/i', $post->post_content, $matches);
+  $first_img = $matches [1] [0];
+
+  if(empty($first_img)){ //Defines a default image
+    $first_img = "/images/default.jpg";
+  }
+  return $first_img;
+}
+?>
     
     <meta property="og:image" content="<?php echo catch_that_image() ?>"/>
 
