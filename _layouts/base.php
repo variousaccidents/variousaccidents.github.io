@@ -2,6 +2,23 @@
 
 <head>
 
+
+<?php
+function catch_that_image() {
+  global $post, $posts;
+  $first_img = '';
+  ob_start();
+  ob_end_clean();
+  $output = preg_match_all('/<img.+src=[\'"]([^\'"]+)[\'"].*>/i', $post->post_content, $matches);
+  $first_img = $matches [1] [0];
+
+  if(empty($first_img)){ //Defines a default image
+    $first_img = "/images/default.jpg";
+  }
+  return $first_img;
+}
+?>
+
 <!--AdSense-->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5179328788140758"
      crossorigin="anonymous"></script>
@@ -15,9 +32,11 @@
     <!--If the current page doesn't have a title, the file name is used-->
     <title>Various Accidents</title>
     <meta title=”description” content="A curated selection of future nostalgia Est. 2022">
+    
+    <meta property="og:image" content="<?php echo catch_that_image() ?>"/>
 
     <!--
-        Favicons and code below have been generated from:
+        Favicons and code below have been generated from: 
         https://favicon.io/
     -->
 
