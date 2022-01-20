@@ -1,3 +1,5 @@
+<meta name="twitter:image" value="https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/3nQHkcvvqKQQQlkxSQa5YDH5Pe92%2FpD3SV0fj0cytquPz.jpg?alt=media&token=ea5b7942-8ed5-4022-8c66-528e3879936a" />
+
 # Ahmed Mansouri’s pixelated illustrations of little spaces are delicious
 
 Pixlbanana is the brainy-artsy project of Moroccan software engineer and designer Ahmed Mansouri, honed over 6 years of formal practice.
