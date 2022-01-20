@@ -1,8 +1,3 @@
-<html>
-
-<head>
-
-
 <?php
 function catch_that_image() {
   global $post, $posts;
@@ -18,6 +13,10 @@ function catch_that_image() {
   return $first_img;
 }
 ?>
+
+<html>
+
+<head>
 
 <!--AdSense-->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5179328788140758"
