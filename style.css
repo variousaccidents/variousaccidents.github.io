@@ -132,7 +132,7 @@ h2 {
     font-size: 16pt;
 }
 
-.section-header {
+.section-header,  img + em {
     font-size: 10pt;
 }
 
