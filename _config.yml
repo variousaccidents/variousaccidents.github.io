@@ -2,7 +2,6 @@ permalink: /:year-:month-:day-:slug
 
 plugins:
   - jekyll-redirect-from
-  - jekyll-seo-tag
 
 defaults:
   - scope:
