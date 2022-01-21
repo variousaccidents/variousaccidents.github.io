@@ -17,7 +17,7 @@
     <!--If the current page doesn't have a title, the file name is used-->
     <title>Various Accidents</title>
     <meta title=”description” content="A curated selection of future nostalgia Est. 2022">
-    
+    <!--
     <?php
 function catch_that_image() {
   global $post, $posts;
@@ -33,6 +33,7 @@ function catch_that_image() {
   return $first_img;
 }
 ?>
+-->
     
     <meta property="og:image" content="<?php echo catch_that_image() ?>"/>
 
