@@ -1,5 +1,5 @@
 ---
-description: Yes, coffee and wine actually do go together. Here’s how
+title: Yes, coffee and wine actually do go together. Here’s how
 image: https://intentionalist.com/wp-content/uploads/2020/08/Union-Coffee-Interior.png
 ---
 
