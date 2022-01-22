@@ -5,7 +5,7 @@ image: https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/
 
 Pixlbanana is the brainy-artsy project of Moroccan software engineer and designer Ahmed Mansouri, honed over 6 years of formal practice.
 
-![]({{ post.image }})
+![]({{ page.image }})
 *Images from Pixlbanana's [Instagram](https://www.instagram.com/pixlbanana)*
 
 
