@@ -7,7 +7,7 @@ layout: base
         <div class="section-header">
             {{ page.date | date: "%-m/%-d/%Y" }}
         </div>
-        <h1>{{ page.title }}</h1>
+        <h1>{{ page.headline }}</h1>
             {{ page.content }}
         </p>
     </div>
@@ -25,7 +25,7 @@ layout: base
                 {% assign page_identifier = page.date | append: page.slug %}
                 <a href="{% if post_identifier != page_identifier %}{{ post.url }}{% endif %}"
                     class="{% if post_identifier == page_identifier %}active{% endif %}">
-                    {{ post.date | date: "%-m/%-d/%Y" }} {{ post.name }}
+                    {{ post.date | date: "%-m/%-d/%Y" }} {{ post.title }}
                 </a>
             </li>
             {% endfor %}
