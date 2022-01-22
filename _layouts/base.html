@@ -14,9 +14,9 @@
 
     <!--SITE META-->
     
-    <title>{% if page.headline %}{{ page.headline }}, Various Accidents{% else %}Various Accidents{% endif %}</title>
+    <title>{% if page.header %}{{ page.header }}, Various Accidents{% else %}Various Accidents{% endif %}</title>
     
-   <meta property="og:title" content="{% if page.headline %}{{ page.headline }}{% else %}Various Accidents{% endif %}" />
+   <meta property="og:title" content="{% if page.header %}{{ page.header }}{% else %}Various Accidents{% endif %}" />
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}A curated selection of future nostalgia Est. 2022{% endif %}" />
 <meta property="og:type" content="website" />
 <meta property="og:image" content="{{ page.image }}" />
@@ -24,7 +24,7 @@
 
 <meta name="twitter:card" content="summary_large_image">
 <meta property="twitter:domain" content="">
-<meta name="twitter:title" content="{% if page.headline %}{{ page.headline }}{% else %}Various Accidents{% endif %}">
+<meta name="twitter:title" content="{% if page.header %}{{ page.header }}{% else %}Various Accidents{% endif %}">
     <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}A curated selection of future nostalgia Est. 2022{% endif %}">
 <meta name="twitter:image" content="{{ page.image }}">
 
