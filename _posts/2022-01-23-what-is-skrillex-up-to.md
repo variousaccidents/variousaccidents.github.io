@@ -6,7 +6,7 @@ image: https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/
 ![]({{page.image}})
 *From his insta*
 
-Yes, Toys R Us and Ebaumsworld are still things and the same can be certainly said for our friendly neighborhood Skrillex. Here’s what he’s been up to lately:
+Yes, Toys"R"Us and eBaum's World are still things and the same can be certainly said for our friendly neighborhood Skrillex. Here’s what he’s been up to lately:
 
 ## He just dropped a release with Justin Bieber and Don Toliver
 This showed up last August on his label OWSLA. [Here’s a Spotify link.](https://open.spotify.com/track/55sgQENF3LY1sUcJUwasLl?si=TCV-8GeXT-qmRxtO-pnbXA)
