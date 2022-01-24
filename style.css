@@ -126,10 +126,12 @@ body, p {
 h1 {
     font-family: "PT-F5 Regular";
     font-size: 24pt;
+    margin-top: 1em;
 }
 
 h2 {
     font-size: 16pt;
+    margin-top: 1em;
 }
 
 .section-header,  img + em {
