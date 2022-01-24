@@ -1,6 +1,6 @@
 ---
 header: It’s 2022, what is Skrillex doing right now?
-description: Yes, Toys R Us and Ebaumsworld are still things and the same can be certainly said for our friendly neighborhood Skrillex. Here’s what he’s been up to lately:
+description: Yes, Toys R Us and Ebaumsworld are still things and the same can be certainly said for our friendly neighborhood Skrillex. Here’s what he’s been up to lately.
 image: https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/e1ntH8E8W1ZESwxPHTxNLOa0hK32%2Fkm1vf1uWy7t13GCp.jpg?alt=media&token=ea58e8ab-02e0-4348-9109-0e0ff9fa0017
 ---
 
