@@ -9,13 +9,14 @@ image: https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/
 Yes, Toys R Us and Ebaumsworld are still things and the same can be certainly said for our friendly neighborhood Skrillex. Here’s what he’s been up to lately:
 
 ## He just dropped a release with Justin Bieber and Don Toliver
-This showed up last August on his label OWSLA. [Here’s a Spotify link](https://open.spotify.com/track/55sgQENF3LY1sUcJUwasLl?si=TCV-8GeXT-qmRxtO-pnbXA)
+This showed up last August on his label OWSLA. [Here’s a Spotify link.](https://open.spotify.com/track/55sgQENF3LY1sUcJUwasLl?si=TCV-8GeXT-qmRxtO-pnbXA)
 
 ![e1ntH8E8W1ZESwxPHTxNLOa0hK32/jIJo1Jo65draqiAC.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/e1ntH8E8W1ZESwxPHTxNLOa0hK32%2FjIJo1Jo65draqiAC.jpg?alt=media&token=d561e295-c97e-4a4b-a2ff-c781ba09e0c0)
 *That’s him in the music video*
 
 ## He’s not on tour
 Despite this photo on his Twitter of him on an airplane, there are no upcoming show dates for the 34 year old producer. I mean it could be a hospital, they look about the same.
+
 ![e1ntH8E8W1ZESwxPHTxNLOa0hK32/A8hFeup6monLdZYQ.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/e1ntH8E8W1ZESwxPHTxNLOa0hK32%2FA8hFeup6monLdZYQ.jpg?alt=media&token=af92ecca-8494-489b-b9e5-3489a00c3a55)
 
 
