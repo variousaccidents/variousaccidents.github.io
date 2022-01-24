@@ -22,4 +22,5 @@ Despite this photo on his Twitter of him on an airplane, there are no upcoming s
 
 ## He’s trying to collect mugs
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m trying to collect mugs</p>&mdash; Skrillex (@Skrillex) <a href="https://twitter.com/Skrillex/status/1410952475654475782?ref_src=twsrc%5Etfw">July 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-I don’t know.
+
+There you have it. The guy's alive and kicking just like you!
