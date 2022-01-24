@@ -1,6 +1,6 @@
 ---
 header: It’s 2022, what’s Skrillex doing right now?
-image: https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/e1ntH8E8W1ZESwxPHTxNLOa0hK32%2FaP2xnKn45GEsT10N.jpg
+image: https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/e1ntH8E8W1ZESwxPHTxNLOa0hK32%2Fkm1vf1uWy7t13GCp.jpg?alt=media&token=ea58e8ab-02e0-4348-9109-0e0ff9fa0017
 ---
 
 ![]({{page.image}})
