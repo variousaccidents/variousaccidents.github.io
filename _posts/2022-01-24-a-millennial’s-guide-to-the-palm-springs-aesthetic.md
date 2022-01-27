@@ -21,7 +21,7 @@ Makes sense right? But it’s really ingrained into the visual culture in a chee
 *Stephanie Braconnier/Shutterstock*
 
 ![e1ntH8E8W1ZESwxPHTxNLOa0hK32/gp58H6oRbJkLZlUu.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/e1ntH8E8W1ZESwxPHTxNLOa0hK32%2Fgp58H6oRbJkLZlUu.jpg?alt=media&token=9e64d40d-aa44-44ab-b6ea-23fce5501858)
-*[Palmspringsstyle on Insta](https://www.instagram.com/palmspringsstyle/)
+*[Palmspringsstyle on Insta](https://www.instagram.com/palmspringsstyle/)*
 
 
 ## Architecture from an almost space-age!
