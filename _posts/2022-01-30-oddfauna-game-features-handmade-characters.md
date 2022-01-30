@@ -4,6 +4,7 @@ image: https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/
 ---
 
 I heard this before I saw it. I immediately thought of those awful 3D scans of antiques you see popping up on SketchFab. This is totally not the case with “OddFauna: Secret of the Terrabeast”.
+
 ![]({{page.image}})
 The open-world sandbox adventure which succeeded massively on [Kickstarter](https://www.kickstarter.com/projects/oddfauna/oddfauna-secret-of-the-terrabeast) was designed by Seattle-based husband and wife team Emma and Cliff. 
 
