@@ -1,11 +1,11 @@
 ---
-header: Let’s just take a minute and gawk at Per Nadén’s tiny architecture
+header: Let’s just take a minute and gawk at Per Naden’s tiny architecture
 image: https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/e1ntH8E8W1ZESwxPHTxNLOa0hK32%2F3cnLh6FSvh5mmbRz.jpg?alt=media&token=e4f1ad44-cab3-4c3b-b1a9-6925bbfbb488
 ---
 
 Sometimes I just like to wake up, sip some coffee, and stare at a good house. This week’s discovery is Swedish architecture and spatial design studio Per Nadén. 
 
-![Image](page:image)
+![Image]({{page:image}})
 *All images selected from their [beautiful website](http://pernaden.se)*
 
 The Gothenburg-based studio was started in 2012. Since then, they’ve designed residential and commercial projects, along with furniture. 
