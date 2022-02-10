@@ -1,5 +1,5 @@
 ---
-header: This architecture is straight outta Squid Game!
+header: This apartment complex is straight outta Squid Game!
 description: Enter Ricardo Bofill’s La Muralla Roja. There’s a good chance Squid Game took some heavy influence from this as it’s actually been around quite awhile. The 1968 functioning apartment complex is located in Calp, Spain.
 image: https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/e1ntH8E8W1ZESwxPHTxNLOa0hK32%2FRWxblfr0nKp6O44P.jpg?alt=media&token=f7b98cd4-5e55-417f-aed3-982ae4d1dffb
 ---
