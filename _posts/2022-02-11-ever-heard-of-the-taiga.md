@@ -6,7 +6,7 @@ description: The Taiga (or “land of little sticks” in Russia) is a biome tha
 
 I didn’t… up until I saw a video of a drone flyover in Russia with a seemingly endless flat plane filled with evergreen trees, and got curious. 
 
-## The Taiga (or “land of little sticks” in Russia) is a biome the dominates a large portion of the northern hemisphere. 
+## The Taiga (or “land of little sticks” in Russia) is a biome that dominates a large portion of the northern hemisphere. 
 
 ![Image]({{page.image}})
 *All images are from [this fantastic video](https://youtu.be/OUmHWrF8MnY) which covers the Taiga in depth*
