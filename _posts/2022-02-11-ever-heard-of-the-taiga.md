@@ -8,7 +8,7 @@ I didn’t… up until I saw a video of a drone flyover in Russia with a seeming
 
 ## The Taiga (or “land of little sticks” in Russia) is a biome the dominates a large portion of the northern hemisphere. 
 
-![Image](page.image)
+![Image]({{page.image}})
 *All images are from [this fantastic video](https://youtu.be/OUmHWrF8MnY) which covers the Taiga in depth*
 
 If you’re thinking of biomes in Minecraft it’s basically the same principle. The nutty thing about this region is that it only inhabits about six varieties of trees, and spans across large portions of Siberia. 
