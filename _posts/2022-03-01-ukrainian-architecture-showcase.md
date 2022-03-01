@@ -11,7 +11,7 @@ Given recent events I thought this would be a great time to find out about some 
 Built just a year ago only 25km from Kyiv, this residential house was designed to blend in with the surrounding environment both through its shape and through the use of natural materials.
 
 ![e1ntH8E8W1ZESwxPHTxNLOa0hK32/0NGJHBrKIAXv2baE.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/e1ntH8E8W1ZESwxPHTxNLOa0hK32%2F0NGJHBrKIAXv2baE.jpg?alt=media&token=6931225f-2a1a-4374-b167-0c7055fc7068)
-*All photos from (Balbek’s website)[https://www.balbek.com/]*
+*All photos from [Balbek’s website](https://www.balbek.com/)*
 
 ![e1ntH8E8W1ZESwxPHTxNLOa0hK32/K5X5ZP4KeuBn6C47.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/e1ntH8E8W1ZESwxPHTxNLOa0hK32%2FK5X5ZP4KeuBn6C47.jpg?alt=media&token=f68737b8-235f-453d-91a1-4bf6e25a8dd2)
 
@@ -30,7 +30,7 @@ The interior is designed to reflect the quality of the outside trees in texture 
 Ryntovt has this quirky element in a lot of their work of incorporating texture, nature photos, and raw materials into their otherwise stark aesthetic. This house is a beautifully clean example of their embrace of nature. 
 
 ![e1ntH8E8W1ZESwxPHTxNLOa0hK32/CMKQdpIMniT8DxGY.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/e1ntH8E8W1ZESwxPHTxNLOa0hK32%2FCMKQdpIMniT8DxGY.jpg?alt=media&token=96812708-105b-480b-a4ec-dcca0d9f19f3)
-*All images from (their website)[https://ryntovt.com]*
+*All images from [their website](https://ryntovt.com)*
 
 The house was a reconstruction in 2017 and includes the company’s own furniture that they sell as well.
 
@@ -47,7 +47,7 @@ The house was a reconstruction in 2017 and includes the company’s own furnitur
 Okay this one appears to be in the render stage and has little information but it’s absolutely gorgeous. Just look at these renders.
 
 ![e1ntH8E8W1ZESwxPHTxNLOa0hK32/wrgRzdfXMOD347Kk.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/e1ntH8E8W1ZESwxPHTxNLOa0hK32%2FwrgRzdfXMOD347Kk.jpg?alt=media&token=3ae57b34-992d-4b25-8008-23bd2d976c53)
-*Photos from (their website)[https://mahno.com.ua]*
+*Photos from [their website](https://mahno.com.ua)*
 
 ![e1ntH8E8W1ZESwxPHTxNLOa0hK32/CIxGJycylMfv6MAU.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/e1ntH8E8W1ZESwxPHTxNLOa0hK32%2FCIxGJycylMfv6MAU.jpg?alt=media&token=624d5329-082d-4cfa-adfa-a45fe040b38d)
 
