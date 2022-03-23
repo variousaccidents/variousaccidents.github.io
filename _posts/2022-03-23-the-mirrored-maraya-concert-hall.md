@@ -1,7 +1,7 @@
 ---
 header: The nearly invisible Maraya Concert Hall
 description: That TikTok you saw of someone touching a giant mirror in the desert wasn’t fake.
-image:https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/e1ntH8E8W1ZESwxPHTxNLOa0hK32%2FEoz8ilnCelF3rjoT.jpg?alt=media&token=bc995626-7050-4389-b295-ab816d4e7d18
+image: https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/e1ntH8E8W1ZESwxPHTxNLOa0hK32%2FEoz8ilnCelF3rjoT.jpg?alt=media&token=bc995626-7050-4389-b295-ab816d4e7d18
 ---
 
 ## That TikTok you saw of someone touching a giant mirror in the desert wasn’t fake. 

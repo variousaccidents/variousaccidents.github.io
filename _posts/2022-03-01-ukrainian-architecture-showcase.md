@@ -1,6 +1,6 @@
 ---
 header: A brief showcase of beautiful Ukrainian architectural work
-design: Given recent events I thought this would be a great time to find out about some of the fantastic design and architectural work that has come from the talented Ukrainian people. Here are a few highlights.
+description: Given recent events I thought this would be a great time to find out about some of the fantastic design and architectural work that has come from the talented Ukrainian people. Here are a few highlights.
 image: https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/e1ntH8E8W1ZESwxPHTxNLOa0hK32%2FwrgRzdfXMOD347Kk.jpg?alt=media&token=3ae57b34-992d-4b25-8008-23bd2d976c53
 ---
 
