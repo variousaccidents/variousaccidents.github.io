@@ -4,9 +4,9 @@ description: Since growing up with an affinity for everything music, learning ba
 image: https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/e1ntH8E8W1ZESwxPHTxNLOa0hK32%2FeURuquCJVFjNHlDy.jpg?alt=media&token=aa7362dd-7935-4919-b7f6-23b2bbcf8209
 ---
 
-Since growing up with an affinity for everything music, learning bass guitar and drums, collaborating as lead bassist in State Of Anomie, and after choosing to take a break right when big producers started approaching that project, Daniel Joseph evolved straight into a self-disciplined lifestyle of electronic music and media under his own wing. 
-
 ![e1ntH8E8W1ZESwxPHTxNLOa0hK32/Lie4xUlko8n74AiR.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/e1ntH8E8W1ZESwxPHTxNLOa0hK32%2FLie4xUlko8n74AiR.jpg?alt=media&token=ea67d38d-8666-43e9-9fc3-a3963ef45a0a)
+
+Since growing up with an affinity for everything music, learning bass guitar and drums, collaborating as lead bassist in State Of Anomie, and after choosing to take a break right when big producers started approaching that project, Daniel Joseph evolved straight into a self-disciplined lifestyle of electronic music and media under his own wing. 
 
 More recently he’s released some complex new audiovisual collaborations while squeezing in early morning piano lessons. One of my previous blurbs on this site covered an NFT that Dusko released with EverfreshDesign. After discovering Dusko’s complex creative history that has finally led him to a life of self-directed days in a little soundproofed studio, I had to ask him a few burning questions:
 
@@ -14,21 +14,21 @@ More recently he’s released some complex new audiovisual collaborations while 
 
 After meeting with Bob Rock, and making a clear assessment of the team I had with me, I decided to take time off, and a year or so into my sabbatical I performed to a sold out Commodore Ballroom (Iconic Vancouver Venue) with 5 other musicians as a one-off. The Saxaphone player ran my bass and his sax through Ableton and it changed my world. He threw me a copy, and I was off to the race.
 
-![e1ntH8E8W1ZESwxPHTxNLOa0hK32/eURuquCJVFjNHlDy.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/e1ntH8E8W1ZESwxPHTxNLOa0hK32%2FeURuquCJVFjNHlDy.jpg?alt=media&token=aa7362dd-7935-4919-b7f6-23b2bbcf8209)
-
 Going digital is the greatest decision I’ve ever made: with the same energy it takes to get 4 people to learn to hit the right thing at the right time on their instruments, those same people could dial a composition once and take that same energy to focus on making it sound as good as possible for the end user.
 
 Losing a band member, and having to do the whole hiring process again is a nightmare.
 
-I love flying solo, but I miss some of the shared experiences
+I love flying solo, but I miss some of the shared experiences.
+
+![e1ntH8E8W1ZESwxPHTxNLOa0hK32/eURuquCJVFjNHlDy.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/e1ntH8E8W1ZESwxPHTxNLOa0hK32%2FeURuquCJVFjNHlDy.jpg?alt=media&token=aa7362dd-7935-4919-b7f6-23b2bbcf8209)
 
 ## Jamming vs Programming. Do you like to compose or do you like to figure it out live?
 
 I jam most all of it in a way. You can click around and be jamming, just keep a loop going while "programming". I used to primarily compose by improvising on my keylab88 and finding my way to the songs motif and then quickly move to program the Midi notes to sound in time, before rolling out with the drums, bass and so-on from there.
 
-![e1ntH8E8W1ZESwxPHTxNLOa0hK32/7rApNsoncWkUQnzS.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/e1ntH8E8W1ZESwxPHTxNLOa0hK32%2F7rApNsoncWkUQnzS.jpg?alt=media&token=89ef3654-7f0e-4101-bf7b-3838379a2279)
-
 My small library of recent bass music works are all composed with the Paint Splatter Technique, which can take a long time because it's jamming out a mess of sounds all at once while in a loop. I’ll keep that loop going while messing about with the “splattered” audio clips to find moments of gold.
+
+![e1ntH8E8W1ZESwxPHTxNLOa0hK32/7rApNsoncWkUQnzS.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/e1ntH8E8W1ZESwxPHTxNLOa0hK32%2F7rApNsoncWkUQnzS.jpg?alt=media&token=89ef3654-7f0e-4101-bf7b-3838379a2279)
 
 ## Love The Splatter Technique. Is that something you picked from Kursa?
 
