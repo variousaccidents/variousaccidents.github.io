@@ -1,5 +1,5 @@
 ---
-header: Exclusive interview with Dusko, electronic music and NFT producer with too many tools up his sleeve
+header: Exclusive interview with Dusko, music producer, composer & sound designer recently taking his skillset to the world of NFTs
 description: Since growing up with an affinity for everything music, learning bass guitar and drums, collaborating as lead bassist in State Of Anomie, and after choosing to take a break right when big producers started approaching that project, Daniel Joseph evolved straight into a self-disciplined lifestyle of electronic music and media under his own wing.
 image: https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/e1ntH8E8W1ZESwxPHTxNLOa0hK32%2FeURuquCJVFjNHlDy.jpg?alt=media&token=aa7362dd-7935-4919-b7f6-23b2bbcf8209
 ---
