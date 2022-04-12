@@ -75,6 +75,8 @@ NFTs are no different for me, other than a different business model and a cultur
 
 And - with NFTs as a means of pushing artists to produce original works in every medium, I feel it’s time to finish bass music projects which I stepped away from while learning to better manage DUSKO’s ecom operations by studying the subject and applying the lessons to several start ups - and currently one business acquisition.
 
+<blockquote class=“twitter-tweet”><p lang=“en” dir=“ltr”>Quick Sound Design to an animation <a href=“https://twitter.com/_chrisbjerre?ref_src=twsrc%5Etfw”>@_chrisbjerre</a> did for <a href=“https://twitter.com/ParallelNFT?ref_src=twsrc%5Etfw”>@ParallelNFT</a> <br><br>Upcycled Technology<br>“Nothing wasted, a second chance for everything”<br><br>Augencore 💪 <a href=“https://t.co/tsx0pnNw9T”>pic.twitter.com/tsx0pnNw9T</a></p>&mdash; DUSKOsound.eth (@DUSKOsound) <a href=“https://twitter.com/DUSKOsound/status/1488637686835335173?ref_src=twsrc%5Etfw”>February 1, 2022</a></blockquote> <script async src=“https://platform.twitter.com/widgets.js” charset=“utf-8”></script>
+
 ## You haven’t released anything other than audio / visual material since the Artifacts Remix LP. Why is this?
 
 I actually put some intensely laboursome projects into a time capsule. Refused to touch them until the time was right. Woke up the other morning unsure of which direction to go, and cracked them open. I could place them on a typical label. That could help get shows - which I’m not interested in as a rev stream right now, so where’s the money coming from? Spotify? That works for some genres, but not whatever art-first concept I was building back in 2019.
