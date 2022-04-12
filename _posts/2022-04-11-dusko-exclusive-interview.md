@@ -85,3 +85,7 @@ I love when it matches perfectly with Sonic Aesthetic as well: textures of visua
 They really embellish one another when perfectly aligned.
 
 Emotional Stirs. Feelings of Awe. Synesthesia.
+
+## Where can your work be found?
+
+[Here](https://linktr.ee/duskosound?utm_source=linktree_profile_share&ltsid=c7707a62-3f78-4268-81cf-4c47b38fab46)
