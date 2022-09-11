@@ -6,7 +6,7 @@ description: New post description
 New post description
 
 
-![]( images/_R005869.jpeg)
+![](images/_R005869.jpeg)
 
 
 ![]( images/.jpeg)
