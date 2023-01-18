@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf6a31bd-35d4-487d-8b48-8f527fba500d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23rHhy6KnY0EpDVo3bvyQjRHOZc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf6a31bd-35d4-487d-8b48-8f527fba500d" name="Changes" comment="" />
+      <created>1642485413731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642485413731</updated>
+      <workItem from="1642485419058" duration="1675000" />
+      <workItem from="1642489167509" duration="805000" />
+      <workItem from="1642724802377" duration="33000" />
+      <workItem from="1642728345717" duration="315000" />
+      <workItem from="1642814927135" duration="2771000" />
+      <workItem from="1642819915136" duration="692000" />
+      <workItem from="1644604651189" duration="273000" />
+    </task>
+    <task id="LOCAL-00001" summary="Stylistic changes">
+      <created>1642486872239</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642486872239</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Post edits">
+      <created>1642487025081</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642487025081</updated>
+    </task>
+    <task id="LOCAL-00003" summary="post edits">
+      <created>1642487176406</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642487176406</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updating Style">
+      <created>1642489803908</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642489803908</updated>
+    </task>
+    <task id="LOCAL-00005" summary="edits">
+      <created>1642490091614</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642490091614</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fixing php">
+      <created>1642729615740</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1642729615740</updated>
+    </task>
+    <task id="LOCAL-00007" summary="image changes for seo">
+      <created>1642815071277</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1642815071277</updated>
+    </task>
+    <task id="LOCAL-00008" summary="jekyll seo removal">
+      <created>1642815439790</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1642815439790</updated>
+    </task>
+    <task id="LOCAL-00009" summary="description included in title">
+      <created>1642815662684</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1642815662684</updated>
+    </task>
+    <task id="LOCAL-00010" summary="more post edits">
+      <created>1642815774532</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1642815774532</updated>
+    </task>
+    <task id="LOCAL-00011" summary="image change">
+      <created>1642815815878</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1642815815878</updated>
+    </task>
+    <task id="LOCAL-00012" summary="new post image">
+      <created>1642816054890</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1642816054890</updated>
+    </task>
+    <task id="LOCAL-00013" summary="changed to page image">
+      <created>1642818214304</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1642818214304</updated>
+    </task>
+    <task id="LOCAL-00014" summary="post udpates">
+      <created>1642818408356</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1642818408356</updated>
+    </task>
+    <task id="LOCAL-00015" summary="meta edits">
+      <created>1642818654708</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1642818654708</updated>
+    </task>
+    <task id="LOCAL-00016" summary="meta changes">
+      <created>1642818765414</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1642818765414</updated>
+    </task>
+    <task id="LOCAL-00017" summary="site title">
+      <created>1642818902753</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1642818902753</updated>
+    </task>
+    <task id="LOCAL-00018" summary="addition of description">
+      <created>1642819228732</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1642819228732</updated>
+    </task>
+    <task id="LOCAL-00019" summary="coffee wine change">
+      <created>1642819261273</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1642819261273</updated>
+    </task>
+    <task id="LOCAL-00020" summary="if statements for title">
+      <created>1642819480867</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1642819480867</updated>
+    </task>
+    <task id="LOCAL-00021" summary="switch to title">
+      <created>1642819535136</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1642819535136</updated>
+    </task>
+    <task id="LOCAL-00022" summary="change to post slug">
+      <created>1642820005716</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1642820005716</updated>
+    </task>
+    <task id="LOCAL-00023" summary="post name">
+      <created>1642820081947</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1642820081947</updated>
+    </task>
+    <task id="LOCAL-00024" summary="change of title to headline">
+      <created>1642820257607</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1642820257607</updated>
+    </task>
+    <task id="LOCAL-00025" summary="headline to header">
+      <created>1642820528305</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1642820528305</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Stylistic changes" />
+    <MESSAGE value="Post edits" />
+    <MESSAGE value="post edits" />
+    <MESSAGE value="Updating Style" />
+    <MESSAGE value="edits" />
+    <MESSAGE value="fixing php" />
+    <MESSAGE value="image changes for seo" />
+    <MESSAGE value="jekyll seo removal" />
+    <MESSAGE value="description included in title" />
+    <MESSAGE value="more post edits" />
+    <MESSAGE value="image change" />
+    <MESSAGE value="new post image" />
+    <MESSAGE value="changed to page image" />
+    <MESSAGE value="post udpates" />
+    <MESSAGE value="meta edits" />
+    <MESSAGE value="meta changes" />
+    <MESSAGE value="site title" />
+    <MESSAGE value="addition of description" />
+    <MESSAGE value="coffee wine change" />
+    <MESSAGE value="if statements for title" />
+    <MESSAGE value="switch to title" />
+    <MESSAGE value="change to post slug" />
+    <MESSAGE value="post name" />
+    <MESSAGE value="change of title to headline" />
+    <MESSAGE value="headline to header" />
+    <option name="LAST_COMMIT_MESSAGE" value="headline to header" />
+  </component>
+</project>

@@ -3,70 +3,154 @@
    License: none (public domain)
 */
 
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
     vertical-align: baseline;
-    -webkit-text-size-adjust: 100%; /* Prevent font scaling in landscape while allowing user zoom */
+    -webkit-text-size-adjust: 100%;
+    /* Prevent font scaling in landscape while allowing user zoom */
 }
+
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
-	display: block;
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block;
 }
+
 body {
-	line-height: 1;
+    line-height: 1;
 }
-ol, ul {
-	list-style: none;
+
+ol,
+ul {
+    list-style: none;
 }
-blockquote, q {
-	quotes: none;
+
+blockquote,
+q {
+    quotes: none;
 }
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+    content: '';
+    content: none;
 }
+
 table {
-	border-collapse: collapse;
-	border-spacing: 0;
+    border-collapse: collapse;
+    border-spacing: 0;
 }
 
 /*End CSS Reset*/
 
-@font-face 
-{
-font-family: "PT-F5 Regular";
-src: url("fonts/PT-F5-Regular.ttf");
-src: url("fonts/PT-F5-Regular.woff") format("woff"),
-url("fonts/PT-F5-Regular.otf") format("opentype");
+@font-face {
+    font-family: "PT-F5 Regular";
+    src: url("../fonts/PT-F5-Regular.woff2") format("woff2"),
+        url("../fonts/PT-F5-Regular.woff") format("woff");
 }
 
-@font-face
-{
+@font-face {
     font-family: "PT-F4-2";
     src: url("fonts/PT-F4-2-100.woff") format("woff"),
-    url("fonts/PT-F4-2-100.otf") format("opentype");
+        url("fonts/PT-F4-2-100.otf") format("opentype");
 }
 
-@font-face
-{
+@font-face {
     font-family: "Corporate Mono";
     src: url("fonts/CorporateMono-Light.ttf") format("ttf");
     src: url("fonts/CorporateMono-Light.woff") format("woff");
@@ -76,10 +160,10 @@ url("fonts/PT-F5-Regular.otf") format("opentype");
 :root {
     --color-primary: #3a3a41;
     --color-secondary: #ffffff;
-  /*  --color-tertiary: #81cbe3; */
+    /*  --color-tertiary: #81cbe3; */
     --color-tertiary: #black;
     --color-background: #eff2f2;
-  /*  --font: "PT-F5 Regular", "Helvetica Neue Medium", Helvetica, Arial, sans-serif; */
+    /*  --font: "PT-F5 Regular", "Helvetica Neue Medium", Helvetica, Arial, sans-serif; */
     --custom-font: "Corporate Mono", Helvetica, Arial, sans-serif;
     --default-font: "Helvetica Neue Regular", Helvetica, Arial, sans-serif;
     --max-width: 960px;
@@ -98,7 +182,18 @@ html {
     background-color: var(--color-secondary);
 }
 
-html, body, p, a, h1, h2, h3, ul, li, iframe, .section-header, #title {
+html,
+body,
+p,
+a,
+h1,
+h2,
+h3,
+ul,
+li,
+iframe,
+.section-header,
+#title {
     font-family: var(--default-font);
     color: var(--color-primary);
     margin-bottom: 1em;
@@ -115,11 +210,13 @@ a {
     display: inline;
 }
 
-#archive a:active, #archive a.active {
+#archive a:active,
+#archive a.active {
     border-bottom: none;
 }
 
-body, p {
+body,
+p {
     font-size: 1em;
 }
 
@@ -134,12 +231,12 @@ h2 {
     margin-top: 1em;
 }
 
-.section-header,  img + em {
+.section-header,
+img+em {
     font-size: 10pt;
 }
 
-iframe
-{
+iframe {
     width: 100%;
 }
 
@@ -157,17 +254,19 @@ iframe
     padding-top: .1em;
     padding-bottom: .1em;
 }
+
 .header-link {
     margin-right: .5em;
 }
 
 #footer-container li {
-    float:left;
+    float: left;
     margin-right: calc(var(--spacing)/2);
 }
 
 /* images and video */
-img, video { 
+img,
+video {
     margin-bottom: 1em;
     width: 100%;
 }
@@ -196,8 +295,7 @@ hr {
     /* margin-bottom: calc(var(--spacing)*1); */
 }
 
-.container 
-{
+.container {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -210,16 +308,23 @@ hr {
     /* padding: calc(var(--spacing)/2); */
 }
 
-.left-minor, .left-major, .right-minor, .right-major, .center-content, .border {
+.left-minor,
+.left-major,
+.right-minor,
+.right-major,
+.center-content,
+.border {
     display: block;
     margin-bottom: calc(var(--spacing)*1);
 }
 
-.left-major, .right-major {
+.left-major,
+.right-major {
     width: calc(75% - (var(--spacing)/2));
 }
 
-.left-minor, .right-minor {
+.left-minor,
+.right-minor {
     width: calc(25% - (var(--spacing)/2));
 }
 
@@ -232,21 +337,26 @@ hr {
 
 @media (prefers-color-scheme: dark) {
     :root {
-	--color-primary: white;
-    --color-secondary: black; 
-    --color-tertiary: #ff2a2b;
+        --color-primary: white;
+        --color-secondary: black;
+        --color-tertiary: #ff2a2b;
     }
 }
 
- /*screen size*/
+/*screen size*/
 
 @media screen and (max-width: 750px) {
-    .left-major, .left-minor, .right-major, .right-minor {
+
+    .left-major,
+    .left-minor,
+    .right-major,
+    .right-minor {
         width: calc(100%);
     }
+
     /*:root {*/
     /*    --body-size: 14px;*/
     /*    --h1-size: calc(var(--body-size)*6)*/
     /*    }*/
-    
+
 }
