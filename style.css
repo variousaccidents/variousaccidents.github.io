@@ -139,15 +139,9 @@ table {
 /*End CSS Reset*/
 
 @font-face {
-    font-family: "PT-F5 Regular";
-    src: url("../fonts/PT-F5-Regular.woff2") format("woff2"),
-        url("../fonts/PT-F5-Regular.woff") format("woff");
-}
-
-@font-face {
-    font-family: "PT-F4-2";
-    src: url("fonts/PT-F4-2-100.woff") format("woff"),
-        url("fonts/PT-F4-2-100.otf") format("opentype");
+    font-family: "Hyperwalk VF";
+    src: url("../fonts/HyperwalkVF.woff") format("woff");
+	src: url("../fonts/HyperwalkVF.woff2") format("woff2");
 }
 
 @font-face {
@@ -156,30 +150,39 @@ table {
     src: url("fonts/CorporateMono-Light.woff") format("woff");
 }
 
+@font-face {
+    font-family: "Nyght";
+    src: url("fonts/NyghtSerif-DarkItalic.woff") format("woff");
+    src: url("fonts/NyghtSerif-DarkItalic.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Nyght Light";
+    src: url("fonts/NyghtSerif-LightItalic.woff") format("woff");
+    src: url("fonts/NyghtSerif-LightItalic.woff2") format("woff2");
+}
+
 
 :root {
-    --color-primary: #3a3a41;
-    --color-secondary: #ffffff;
-    /*  --color-tertiary: #81cbe3; */
-    --color-tertiary: #black;
-    --color-background: #eff2f2;
-    /*  --font: "PT-F5 Regular", "Helvetica Neue Medium", Helvetica, Arial, sans-serif; */
-    --custom-font: "Corporate Mono", Helvetica, Arial, sans-serif;
-    --default-font: "Helvetica Neue Regular", Helvetica, Arial, sans-serif;
+    --color-fg: black;
+    --color-bg: white;
+    --color-accent: #0000ff;
     --max-width: 960px;
     --line-height-multiplier: 1.4;
     /* site title */
     --section-header-size: 12pt;
     --spacing: 4em;
     --border-width: 1.5px;
-    --letter-spacing: 0em;
+	font-family: "Hyperwalk VF", "Helvetica Neue Regular", Helvetica, Arial, sans-serif;
+	font-weight: 80;
+	letter-spacing: .02em;
 }
 
 /*main css*/
 
 /*text*/
 html {
-    background-color: var(--color-secondary);
+    background-color: var(--color-bg);
 }
 
 html,
@@ -192,27 +195,27 @@ h3,
 ul,
 li,
 iframe,
-.section-header,
-#title {
-    font-family: var(--default-font);
-    color: var(--color-primary);
+.section-header {
+    color: var(--color-fg);
     margin-bottom: 1em;
     line-height: normal;
     text-decoration: none;
-    letter-spacing: var(--letter-spacing);
-    font-weight: 400;
 }
 
 a {
-    padding-bottom: .1em;
-    line-height: 1.5em;
-    border-bottom: solid var(--border-width);
-    display: inline;
+    /* padding-bottom: .1em; */
+    /* line-height: 1.5em; */
+    /* border-bottom: solid var(--border-width); */
+    /* display: inline; */
+	color: var(--color-accent);
 }
 
-#archive a:active,
-#archive a.active {
-    border-bottom: none;
+a.active {
+    /* border-bottom: none; */
+	color: var(--color-fg);
+	/* make the link not clickable */
+	pointer-events: none;
+	cursor: default;
 }
 
 body,
@@ -221,38 +224,51 @@ p {
 }
 
 h1 {
-    font-family: "PT-F5 Regular";
-    font-size: 24pt;
-    margin-top: 1em;
+    font-size: 36pt;
+    /* margin-top: 1em; */
+	/* font-weight: 110; */
+	letter-spacing: -.02em;
+	/* font-family: "Nyght", Helvetica, sans-serif; */
 }
 
 h2 {
-    font-size: 16pt;
+	/* letter-spacing: 0; */
+	font-family: "Nyght Light", Helvetica, sans-serif;
+    font-size: 18pt;
     margin-top: 1em;
 }
 
-.section-header,
-img+em {
-    font-size: 10pt;
+h3, img+em {
+    font-size: 8pt;
+	font-weight: 100;
+	text-transform: uppercase;
 }
 
 iframe {
     width: 100%;
 }
 
-#title {
+/* #title {
     margin-bottom: 0;
-    font-family: var(--custom-font);
     font-size: 16pt;
     display: inline-block;
     letter-spacing: .05em;
     text-transform: uppercase;
-    color: var(--color-secondary);
-    background-color: var(--color-primary);
+    color: var(--color-bg);
+    background-color: var(--color-fg);
     padding-left: .2em;
     padding-right: .2em;
     padding-top: .1em;
     padding-bottom: .1em;
+	font-family: "Corporate Mono", Helvetica, sans-serif;
+} */
+
+#title {
+	color: var(--color-fg);
+    margin-bottom: 0;
+    font-size: 24pt;
+    display: inline-block;
+	font-family: "Nyght", Helvetica, sans-serif;
 }
 
 .header-link {
@@ -291,7 +307,7 @@ hr {
 }
 
 .section-header {
-    /*border-bottom: var(--border-width) solid var(--color-tertiary);*/
+    /*border-bottom: var(--border-width) solid var(--color-accent);*/
     /* margin-bottom: calc(var(--spacing)*1); */
 }
 
@@ -303,7 +319,7 @@ hr {
 }
 
 .box {
-    background-color: var(--color-secondary);
+    background-color: var(--color-bg);
     margin-bottom: var(--spacing);
     /* padding: calc(var(--spacing)/2); */
 }
@@ -337,9 +353,8 @@ hr {
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --color-primary: white;
-        --color-secondary: black;
-        --color-tertiary: #ff2a2b;
+        --color-fg: white;
+        --color-bg: black;
     }
 }
 

@@ -1,86 +1,77 @@
-
-
 <html>
 
 <head>
 
-<!--AdSense-->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5179328788140758"
-     crossorigin="anonymous"></script>
+	<!--AdSense-->
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5179328788140758"
+		crossorigin="anonymous"></script>
 
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-    <!--SITE META-->
-    
-    <title>{% if page.header %}{{ page.header }}, Various Accidents{% else %}Various Accidents{% endif %}</title>
-    
-   <meta property="og:title" content="{% if page.header %}{{ page.header }}{% else %}Various Accidents{% endif %}" />
-    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}A curated selection of future nostalgia Est. 2022{% endif %}" />
-<meta property="og:type" content="website" />
-<meta property="og:image" content="{{ page.image }}" />
-<meta property="og:image:secure_url" content="{{ page.image }}" />
+	<!--SITE META-->
 
-<meta name="twitter:card" content="summary_large_image">
-<meta property="twitter:domain" content="">
-<meta name="twitter:title" content="{% if page.header %}{{ page.header }}{% else %}Various Accidents{% endif %}">
-    <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}A curated selection of future nostalgia Est. 2022{% endif %}">
-<meta name="twitter:image" content="{{ page.image }}">
+	<title>{% if page.header %}{{ page.header }}, Various Accidents{% else %}Various Accidents{% endif %}</title>
+
+	<meta property="og:title" content="{% if page.header %}{{ page.header }}{% else %}Various Accidents{% endif %}" />
+	<meta property="og:description"
+		content="{% if page.description %}{{ page.description }}{% else %}A curated selection of future nostalgia Est. 2022{% endif %}" />
+	<meta property="og:type" content="website" />
+	<meta property="og:image" content="{{ page.image }}" />
+	<meta property="og:image:secure_url" content="{{ page.image }}" />
+
+	<meta name="twitter:card" content="summary_large_image">
+	<meta property="twitter:domain" content="">
+	<meta name="twitter:title" content="{% if page.header %}{{ page.header }}{% else %}Various Accidents{% endif %}">
+	<meta name="twitter:description"
+		content="{% if page.description %}{{ page.description }}{% else %}A curated selection of future nostalgia Est. 2022{% endif %}">
+	<meta name="twitter:image" content="{{ page.image }}">
 
 
-    <!--
+	<!--
         Favicons and code below have been generated from: 
         https://favicon.io/
     -->
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
 
-    <!--/SITE META-->
+	<!--/SITE META-->
 
-    <link rel="stylesheet" href="../style.css">
+	<link rel="stylesheet" href="../style.css">
 </head>
 
 <body>
-<div id="site-container">
+	<div id="site-container">
+		<div id="nav-container" class="container">
+			<div class="left-major">
+				<a href="../index.html" id="title">various accidents</a>
+			</div>
+		</div>
 
-    <div id="nav-container" class="container">
-                <div class="left-major">
-                <a href="../index.html" id="title">Various Accidents</a>
-                </div>
-<!--                <div class="right-minor">-->
-<!--                    <a class="header-link" href="twitter.com/variousaccidents">TW</a> -->
-<!--                    <a class="header-link" href="instagram.com/variousaccidents">IG</a>-->
-<!--                </div>-->
+		<div id="content-container" class="container">
+			{{ content }}
+		</div>
 
-    </div>
-
-    <div id="content-container" class="container">
-
-                {{ content }}
-    </div>
-
-    <div id="footer-container">
-        <div id="description" class="left-major">
-            <!--<div id="section-header">
-            </div>-->
-            <ul>
-                <li>
-                    A curated selection of future nostalgia Est. 2022
-                </li>
-                <li>
-                    <ul>
-                        <li><a href="https://twitter.com/variacci">Twitter</a></li>
-                        <li><a href="https://www.instagram.com/variousaccidents">Instagram</a></li>
-                    </ul>
-                </li>
-            </ul>
-        </div>
-    </div>
-</div>
+		<div id="footer-container">
+			<div id="description" class="left-major">
+				<ul>
+					<li>
+						A curated selection of future nostalgia Est. 2022
+					</li>
+					<li>
+						<ul>
+							<li><a href="https://twitter.com/variacci">Twitter</a></li>
+							<li><a href="https://www.instagram.com/variousaccidents">Instagram</a></li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
 
 </body>
 
